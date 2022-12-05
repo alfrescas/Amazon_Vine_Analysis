@@ -5,6 +5,5 @@ This analysis is part of a larger project that was assigned by Jennifer. This an
   - Pandas
   - SQL
  
-## Results:
 
 
